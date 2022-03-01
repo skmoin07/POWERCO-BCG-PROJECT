@@ -1,0 +1,12 @@
+The goal of this program challenge is to predict the probability of customers churn on one of BCG clients called PowerCo.
+PowerCo is a company that focus on supplying gas and electricity for SME( Small Medium Enterprises) and residential customers.
+They want to derive an effective decision to the declining customers lately by collaboration with BCG.
+One hypothesis that likely to happen of the customers churn during period of January to March 2016 is the price sensitiviy and the issue of power-liberalization market in Europe.
+We, as consultant want to understand the data better and derive actionable insights through the hypothesis whether we should consider marketing strategy that PowerCo is trying to do by offering 20% discount to the customers churn.
+Is it an effective way to do or any other solutions that we can deliver to the client.
+As this is a classification problem, we will be using one or more classification algorithms such as Logistic Regression, Decision tree and Random Forest by always checking a few importants parts such as overfitting or underfitting model.
+We will analyze three datasets that we will believe can support the insights by following data :
+
+1.Historical customer data: Customer data such as usage, sign up date, forecasted usage etc
+2.Historical pricing data: variable and fixed pricing data etc
+3.Churn indicator: whether each customer has churned or not
